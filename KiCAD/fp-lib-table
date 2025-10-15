@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "orangepi")(type "KiCad")(uri "${KIPRJMOD}/custom_sym/OrangePi3b/orangepi.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/custom_sym/AHQSH105LM100G/Library.pretty")(options "")(descr ""))
+)
